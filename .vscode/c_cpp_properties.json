@@ -17,7 +17,7 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "C:/Users/Eric/OJ/MinGW/bin/gcc",
+            "compilerPath": "C:\\Users\\Public\\Strawberry\\c\\bin\\gcc.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "${default}"
